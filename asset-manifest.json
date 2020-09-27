@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/testReactTask/static/css/main.81e49168.chunk.css",
+    "main.js": "/testReactTask/static/js/main.15776a3d.chunk.js",
+    "main.js.map": "/testReactTask/static/js/main.15776a3d.chunk.js.map",
+    "runtime-main.js": "/testReactTask/static/js/runtime-main.01ddffa9.js",
+    "runtime-main.js.map": "/testReactTask/static/js/runtime-main.01ddffa9.js.map",
+    "static/js/2.cafd0dd4.chunk.js": "/testReactTask/static/js/2.cafd0dd4.chunk.js",
+    "static/js/2.cafd0dd4.chunk.js.map": "/testReactTask/static/js/2.cafd0dd4.chunk.js.map",
+    "static/js/3.3f6b8aab.chunk.js": "/testReactTask/static/js/3.3f6b8aab.chunk.js",
+    "static/js/3.3f6b8aab.chunk.js.map": "/testReactTask/static/js/3.3f6b8aab.chunk.js.map",
+    "static/css/4.75b59849.chunk.css": "/testReactTask/static/css/4.75b59849.chunk.css",
+    "static/js/4.608ce176.chunk.js": "/testReactTask/static/js/4.608ce176.chunk.js",
+    "static/js/4.608ce176.chunk.js.map": "/testReactTask/static/js/4.608ce176.chunk.js.map",
+    "static/js/5.a650185d.chunk.js": "/testReactTask/static/js/5.a650185d.chunk.js",
+    "static/js/5.a650185d.chunk.js.map": "/testReactTask/static/js/5.a650185d.chunk.js.map",
+    "static/js/6.cf4e3988.chunk.js": "/testReactTask/static/js/6.cf4e3988.chunk.js",
+    "static/js/6.cf4e3988.chunk.js.map": "/testReactTask/static/js/6.cf4e3988.chunk.js.map",
+    "static/js/7.34e7c0e4.chunk.js": "/testReactTask/static/js/7.34e7c0e4.chunk.js",
+    "static/js/7.34e7c0e4.chunk.js.map": "/testReactTask/static/js/7.34e7c0e4.chunk.js.map",
+    "static/js/8.f8c94dac.chunk.js": "/testReactTask/static/js/8.f8c94dac.chunk.js",
+    "static/js/8.f8c94dac.chunk.js.map": "/testReactTask/static/js/8.f8c94dac.chunk.js.map",
+    "index.html": "/testReactTask/index.html",
+    "precache-manifest.544ed4e8866f60dbd8008c92a516ada2.js": "/testReactTask/precache-manifest.544ed4e8866f60dbd8008c92a516ada2.js",
+    "service-worker.js": "/testReactTask/service-worker.js",
+    "static/css/4.75b59849.chunk.css.map": "/testReactTask/static/css/4.75b59849.chunk.css.map",
+    "static/css/main.81e49168.chunk.css.map": "/testReactTask/static/css/main.81e49168.chunk.css.map",
+    "static/js/2.cafd0dd4.chunk.js.LICENSE.txt": "/testReactTask/static/js/2.cafd0dd4.chunk.js.LICENSE.txt",
+    "static/js/5.a650185d.chunk.js.LICENSE.txt": "/testReactTask/static/js/5.a650185d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01ddffa9.js",
+    "static/js/2.cafd0dd4.chunk.js",
+    "static/css/main.81e49168.chunk.css",
+    "static/js/main.15776a3d.chunk.js"
+  ]
+}
