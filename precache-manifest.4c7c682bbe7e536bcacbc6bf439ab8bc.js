@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "674a581d8de69e352f103125cee9caa3",
+    "revision": "36a139a7bf1ca9eb927f55352d96d121",
     "url": "/testReactTask/index.html"
   },
   {
-    "revision": "44220a3d44175e8af0d0",
-    "url": "/testReactTask/static/css/4.75b59849.chunk.css"
+    "revision": "39e9e3a66c2304b4b17d",
+    "url": "/testReactTask/static/css/4.0dbc4811.chunk.css"
   },
   {
-    "revision": "a8513631c3ee356aa022",
-    "url": "/testReactTask/static/css/main.81e49168.chunk.css"
+    "revision": "6218490be67711575bec",
+    "url": "/testReactTask/static/css/main.53d9bafc.chunk.css"
   },
   {
     "revision": "0e1fc35f0f6bfb4d6392",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/testReactTask/static/js/3.3f6b8aab.chunk.js"
   },
   {
-    "revision": "44220a3d44175e8af0d0",
-    "url": "/testReactTask/static/js/4.608ce176.chunk.js"
+    "revision": "39e9e3a66c2304b4b17d",
+    "url": "/testReactTask/static/js/4.dbf5ac07.chunk.js"
   },
   {
     "revision": "6e223bdbfe40f1b18779",
@@ -48,11 +48,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/testReactTask/static/js/8.f8c94dac.chunk.js"
   },
   {
-    "revision": "a8513631c3ee356aa022",
-    "url": "/testReactTask/static/js/main.15776a3d.chunk.js"
+    "revision": "6218490be67711575bec",
+    "url": "/testReactTask/static/js/main.0f321b84.chunk.js"
   },
   {
-    "revision": "80e96603add4662b899a",
-    "url": "/testReactTask/static/js/runtime-main.01ddffa9.js"
+    "revision": "a4450263171e762b38ba",
+    "url": "/testReactTask/static/js/runtime-main.2c65dd28.js"
   }
 ]);
